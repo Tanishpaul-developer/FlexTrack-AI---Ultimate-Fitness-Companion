@@ -1,0 +1,9 @@
+{
+  "name": "FlexTrack AI - Ultimate Fitness Companion",
+  "description": "A comprehensive fitness tracking application featuring AI-powered workout generation, detailed exercise tracking, progress visualization, and motivational gamification.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
